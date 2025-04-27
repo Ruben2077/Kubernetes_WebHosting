@@ -28,18 +28,3 @@ Designed for **simplicity**, **flexibility**, and **reliability** — perfect fo
 - **Monitoring & Logging Ready**  
   Out-of-the-box integration options for **Prometheus**, **Grafana**, **Fluentd**, and more.
 
----
-
-## 📦 Why This Project?
-
-✅ Avoid vendor lock-in.  
-✅ Full control over your cluster configuration.  
-✅ Clean, modular, and extensible setup.  
-✅ A solid foundation for production-grade Kubernetes hosting.
-
----
-
-## 📚 Documentation
-
-> Detailed installation and usage guides are available inside the `docs/` folder.  
-> Example configurations and best practices included!
